@@ -1,0 +1,17 @@
+1. Início
+2. Observe a lâmpada que precisa ser trocada
+3. Verifique se a energia está desligada
+4. Se a energia não estiver desligada, desligue-a no interruptor correspondente
+5. Aguarde alguns minutos para que a lâmpada esfrie, se necessário
+6. Coloque uma escada ou banco estável embaixo da lâmpada, se necessário
+7. Suba na escada ou banco, tomando cuidado para se apoiar firmemente
+8. Segure a lâmpada antiga com cuidado e gire-a no sentido anti-horário para soltá-la do soquete
+9. Retire a lâmpada antiga cuidadosamente e coloque-a em um local seguro para descarte adequado
+10. Pegue a nova lâmpada, tendo cuidado para não tocar na parte do bulbo com os dedos, pois isso pode reduzir a vida útil da lâmpada
+11. Insira a nova lâmpada no soquete e gire-a no sentido horário até que esteja bem encaixada
+12. Verifique se a nova lâmpada está firmemente fixada no soquete
+13. Desça da escada ou banco com cuidado, segurando-se firmemente
+14. Ligue a energia novamente no interruptor correspondente
+15. Verifique se a nova lâmpada está funcionando corretamente
+16. Se a nova lâmpada não acender, verifique se ela está corretamente instalada e se a energia está ligada
+17. Fim
